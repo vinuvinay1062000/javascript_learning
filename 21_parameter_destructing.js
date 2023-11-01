@@ -1,7 +1,7 @@
 // param destructuring 
 
 // object 
-// react 
+// react (will use)
 
 const person = {
     firstName: "harshit",
